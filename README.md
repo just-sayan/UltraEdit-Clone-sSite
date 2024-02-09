@@ -1,2 +1,4 @@
 # UltraEdit-Clone-sSite
-Here is the link to the original site => https://www.ultraedit.com/#
+This is a static clone of the UltraEdit High performance editor.
+Static Clone site => https://just-sayan.github.io/UltraEdit-Clone-sSite/
+Original Site => https://www.ultraedit.com/#
